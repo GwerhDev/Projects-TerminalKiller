@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ed84583.css",
-    "main.js": "/static/js/main.a74c8a3b.js",
+    "main.css": "/static/css/main.35ddfb0a.css",
+    "main.js": "/static/js/main.dc8913b4.js",
     "static/js/787.87398c5c.chunk.js": "/static/js/787.87398c5c.chunk.js",
     "static/media/LaloFreak.png": "/static/media/LaloFreak.1c3edf9664ef1e37e4f0.png",
     "static/media/nacho-iconic.png": "/static/media/nacho-iconic.f2f98ae139573660b3f1.png",
@@ -9,12 +9,12 @@
     "static/media/terminalkiller-logo.png": "/static/media/terminalkiller-logo.7dbe3068db719e28e85a.png",
     "static/media/TrajanusBricks.ttf": "/static/media/TrajanusBricks.71e1e39446431f2fe965.ttf",
     "index.html": "/index.html",
-    "main.6ed84583.css.map": "/static/css/main.6ed84583.css.map",
-    "main.a74c8a3b.js.map": "/static/js/main.a74c8a3b.js.map",
+    "main.35ddfb0a.css.map": "/static/css/main.35ddfb0a.css.map",
+    "main.dc8913b4.js.map": "/static/js/main.dc8913b4.js.map",
     "787.87398c5c.chunk.js.map": "/static/js/787.87398c5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ed84583.css",
-    "static/js/main.a74c8a3b.js"
+    "static/css/main.35ddfb0a.css",
+    "static/js/main.dc8913b4.js"
   ]
 }
