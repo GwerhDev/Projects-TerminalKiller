@@ -1,7 +1,7 @@
 import s from './Developers.module.css';
 import { motion } from 'framer-motion';
-import laloPic from '../../assets/images/LaloFreak.png';
-import nachoPic from '../../assets/images/nacho-iconic.png';
+import laloPic from '../../assets/images/png/LaloFreak.png';
+import nachoPic from '../../assets/images/png/nacho-iconic.png';
 
 export const Developers = () => {
   return (

@@ -22,3 +22,7 @@
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(134, 59, 138, 0.466); /* color barra hover */
 }
+
+.orbitron-font {
+  font-family: Orbitron;
+}
