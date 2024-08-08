@@ -1,6 +1,6 @@
 import s from "./Welcome.module.css";
 import { motion } from "framer-motion";
-import aiImg from "../../assets/images/png/ia-image.png";
+import aiImg from "../../assets/images/jpg/ai-image.jpg";
 
 export const Welcome = () => {
   return (
