@@ -33,6 +33,7 @@ h1 {
 
 .buttonIA {
   padding: 15px;
+  padding-inline: 25px;
   border: none;
   border-radius: 15px;
   color: white;
@@ -48,8 +49,9 @@ h1 {
   background-color: rgb(50, 89, 134);
 }
 
-.buttonContact {
+.buttonContact {  
   padding: 15px;
+  padding-inline: 25px;
   border: none;
   border-radius: 15px;
   color: white;
@@ -61,8 +63,6 @@ h1 {
 
 .aButton {
   margin: 0;
-  width: 100%;
-  padding: 15px;
   border: none;
   border-radius: 15px;
 }

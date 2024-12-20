@@ -34,16 +34,16 @@ export const Welcome = () => {
             animate={{ opacity: 1, x: 0 }}
             className={s.buttonContainer}
           >
-            <button className={s.buttonIA}>
-              <a className={s.aButton} href="https://terminalkiller.netlify.app/#/ai-testing">
+            <a className={s.aButton} href="https://terminalkiller.netlify.app/#/ai-testing">
+              <button className={s.buttonIA}>
                 Prueba nuestra IA en desarrollo
-              </a>
-            </button>
-            <button disabled className={s.buttonContact}>
-              <a className={s.aButton} href="mailto:gwerh.dev@gmail.com">
+              </button>
+            </a>
+            <a className={s.aButton} href="mailto:gwerh.dev@gmail.com">
+              <button disabled className={s.buttonContact}>
                 Contactar
-              </a>
-            </button>
+              </button>
+            </a>
           </motion.div>
         </div>
         <div className={s.widthWrapper}>
