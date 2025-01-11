@@ -34,7 +34,7 @@ export const Welcome = () => {
             animate={{ opacity: 1, x: 0 }}
             className={s.buttonContainer}
           >
-            <a className={s.aButton} href="https://terminalkiller.app/ai-testing">
+            <a className={s.aButton} href="https://terminalkiller.cl/ai-testing">
               <button className={s.buttonIA}>
                 Prueba nuestra IA en desarrollo
               </button>
