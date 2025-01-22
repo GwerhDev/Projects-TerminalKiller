@@ -1,6 +1,6 @@
 import s from './Developers.module.css';
 import { motion } from 'framer-motion';
-import laloPic from '../../assets/images/png/LaloFreak.png';
+import laloPic from '../../assets/images/png/Gwerh-fondo-1.png';
 import nachoPic from '../../assets/images/png/nacho-iconic.png';
 
 export const Developers = () => {
@@ -28,8 +28,9 @@ export const Developers = () => {
               <img
                 className={s.imgProfile}
                 src={laloPic}
-                alt="NachoIconic"
+                alt="Gwerh"
                 width="100px"
+                height="100px"
               />
               <h2 className={s.name} style={{ color: "white", fontFamily: 'Poppins', fontWeight: '300', filter: 'drop-shadow(0px 0px .1px yellow)' }}>Gerardo Guarda</h2>
               <h3 className={s.alias} style={{ color: "white", fontWeight: 'thin' }}>gwerh</h3>
@@ -52,6 +53,7 @@ export const Developers = () => {
                 src={nachoPic}
                 alt="NachoIconic"
                 width="100px"
+                height="100px"
               />
               <h2 className={s.name} style={{ color: "white", fontFamily: 'Poppins', fontWeight: '300', filter: 'drop-shadow(0px 0px .1px yellow)' }}>Ignacio Melgarejo</h2>
               <h3 className={s.alias} style={{ color: "white", fontWeight: 'thin' }}>nachoiconic</h3>
